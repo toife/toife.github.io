@@ -1,1 +1,0 @@
-import{_ as n,c as t,r as e,o as r}from"./index-Ct5Lx6Lz.js";const a={};function c(_,s){const o=e("t-route-navigator");return r(),t(o,{variant:"none"})}const f=n(a,[["render",c]]);export{f as default};
