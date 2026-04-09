@@ -1,1 +1,0 @@
-import{_ as o,c as n,b as s,w as c,e as a,o as r,g as _}from"./index-CFHEf-a4.js";const d={},m={class:"home"};function f(l,t){const e=a("t-button");return r(),n("div",m,[s(e,{type:"button"},{default:c(()=>[...t[0]||(t[0]=[_("OK",-1)])]),_:1})])}const u=o(d,[["render",f]]);export{u as default};
